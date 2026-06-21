@@ -302,11 +302,11 @@ admin
 
 ### Kubernetes Pods
 
-![Kubernted Pods](screenshots/kubernetess-pods.png)
+![Kubernted Pods](screenshots/kubernetes_pods.png)
 
 ### Horizontal Pod Autoscaler
 
-![Horizontal Pod Autoscaler](screenshots/hpa.png)
+![Horizontal Pod Autoscaler](screenshots/hpa1.png)
 
 ### Prometheus Dashboard
 
