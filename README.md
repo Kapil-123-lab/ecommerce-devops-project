@@ -302,7 +302,7 @@ admin
 
 ### Kubernetes Pods
 
-![Kubernted Pods](screenshots/kubernetes_pods.png)
+![Kubernetes Pods](screenshots/kubernetes_pods.png)
 
 ### Horizontal Pod Autoscaler
 
