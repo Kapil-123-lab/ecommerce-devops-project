@@ -338,6 +338,6 @@ admin
 
 **Kapil Kanaujiya**
 
-Production Support Engineer | DevOps Engineer | SRE Enthusiast
+DevOps Engineer | Production Support Engineer | SRE Enthusiast
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: https://www.linkedin.com/in/kapil-kanaujiya-4331191a1/
