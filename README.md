@@ -312,6 +312,11 @@ admin
 
 ![Prometheus](screenshots/prometheus-dashboard.png)
 
+
+![Prometheus](screenshots/prometheus-targets.png)
+
+
+
 ### Grafana Dashboard
 
 ![Grafana Dashboard](screenshots/grafana-dashboard.png)
