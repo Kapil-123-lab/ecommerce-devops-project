@@ -10,7 +10,7 @@ The primary objective of this project is to showcase modern DevOps practices inc
 
 ## Architecture Diagram
 
-> Add architecture diagram image here.
+![Architecture Diagram](screenshots/architecture-diagram.png)
 
 ```text
 Developer
@@ -294,27 +294,27 @@ admin
 
 ### GitHub Actions Pipeline
 
-*Add screenshot here*
+![GitHub Actions Pipeline](screenshots/github-actions.png)
 
 ### Docker Hub Repository
 
-*Add screenshot here*
+![Docker Hub Repository](screenshots/dockerhub-repository.png)
 
 ### Kubernetes Pods
 
-*Add screenshot here*
+![Kubernted Pods](screenshots/kubernetess-pods.png)
 
 ### Horizontal Pod Autoscaler
 
-*Add screenshot here*
+![Horizontal Pod Autoscaler](screenshots/hpa.png)
 
 ### Prometheus Dashboard
 
-*Add screenshot here*
+![Prometheus](screenshots/prometheus-dashboard.png)
 
 ### Grafana Dashboard
 
-*Add screenshot here*
+![Grafana Dashboard](screenshots/grafana-dashboard.png)
 
 ---
 
